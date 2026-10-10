@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mian Hasnain Ahmad 👋</h1>
-<h3 align="center">Software Engineering Student • Web Developer • Director & Lead Educator</h3>
+<h3 align="center">Full Stack Web Developer • Software Engineering Student • Director & Lead Educator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mian-hasnain-951695325" target="_blank">
@@ -17,7 +17,8 @@
 - 🎓 BS Computer Science / Software Engineering student at **Abdul Wali Khan University, Mardan** (2023–2027)
 - 🏫 Director & Lead Educator at **[Mian Tuition Academy](https://maintuitionclasses.netlify.app/)**, Nowshera Kalan, KPK — 4+ years of private tutoring experience
 - 💻 Building practical, real-world tools — from shop management systems to educational web platforms
-- 🌱 Currently sharpening my skills in **frontend development, UI/UX, and clean project architecture**
+- 🌱 Solid on the frontend, and currently **learning backend development** to grow into a complete full stack developer
+- 🎨 Also into **UI/UX polish** and clean project architecture
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mian-hasnain-951695325)
 
 ---
@@ -40,10 +41,10 @@
 
 | Project | Description |
 |---|---|
-| 🏪 **Meezan Book Store** | A vanilla HTML/CSS/JS book & stationery shop management app — inventory tracking, billing with cart, stock deduction, profit calculation, daily reports & JSON backup. No frameworks, no backend — pure JS + localStorage. |
+| 🏪 **[Book-Store-Management](https://github.com/MianHasnainAhmad/Book-Store-Management)** | A vanilla HTML/CSS/JS book & stationery shop management app: inventory tracking, billing with cart, stock deduction, profit calculation, daily reports & JSON backup. Pure JS + localStorage. |
+| 💼 **[mian-hasnain-portfolio](https://github.com/MianHasnainAhmad/mian-hasnain-portfolio)** | My personal portfolio website, built with JavaScript. |
+| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A weather app built with React. |
 | 🏫 **[Mian Tuition Academy](https://maintuitionclasses.netlify.app/)** | Live website for my own tutoring academy, built and deployed for real students and parents. |
-
-*(Pin these on your profile so they're the first thing visitors see!)*
 
 ---
 
