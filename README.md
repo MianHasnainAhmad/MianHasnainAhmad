@@ -42,8 +42,8 @@
 | Project | Description |
 |---|---|
 | 🏪 **[Book-Store-Management](https://github.com/MianHasnainAhmad/Book-Store-Management)** | A vanilla HTML/CSS/JS book & stationery shop management app: inventory tracking, billing with cart, stock deduction, profit calculation, daily reports & JSON backup. Pure JS + localStorage. |
-| 💼 **[mian-hasnain-portfolio](https://github.com/MianHasnainAhmad/mian-hasnain-portfolio)** | My personal portfolio website, built with JavaScript. |
-| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A weather app built with React. |
+| 💼 **[mian-hasnain-portfolio](https://github.com/MianHasnainAhmad/mian-hasnain-portfolio)** | My personal portfolio website, built with React and Vite: responsive layout, light/dark theme toggle, and a contact form. |
+| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A React weather app with live city search, loading and error states, and conditions-based icons and backgrounds, using the free Open-Meteo API. |
 | 🏫 **[Mian Tuition Academy](https://maintuitionclasses.netlify.app/)** | Live website for my own tutoring academy, built and deployed for real students and parents. |
 
 ---
