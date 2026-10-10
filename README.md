@@ -47,19 +47,26 @@
 
 ---
 
-<p align="center">
+
+ <p align="center">
   <i>Always learning, building, and improving my development skills.</i>
 </p>
+
 ### 📌 Featured Projects
 
 | Project | Description |
 |---|---|
-| 🏪 **[Book-Store-Management](https://github.com/MianHasnainAhmad/Book-Store-Management)** | A vanilla HTML/CSS/JS book & stationery shop management app: inventory tracking, billing with cart, stock deduction, profit calculation, daily reports & JSON backup. Pure JS + localStorage. |
-| 💼 **[mian-hasnain-portfolio](https://github.com/MianHasnainAhmad/mian-hasnain-portfolio)** | My personal portfolio website, built with React and Vite: responsive layout, light/dark theme toggle, and a contact form. |
-| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A React weather app with live city search, loading and error states, and conditions-based icons and backgrounds, using the free Open-Meteo API. |
-| 🏫 **[Mian Tuition Academy](https://maintuitionclasses.netlify.app/)** | Live website for my own tutoring academy, built and deployed for real students and parents. |
+| 🏧 **[ATM-Simulator](https://github.com/MianHasnainAhmad/ATM-Simulator)** | An interactive ATM simulator built with React, Vite, Tailwind CSS, and Lucide React. Features a simulated card insertion flow, PIN entry, interactive keypad, and ATM interface. |
+| 🏪 **[Book-Store-Management](https://github.com/MianHasnainAhmad/Book-Store-Management)** | A book and stationery shop management app built with HTML, CSS, and JavaScript. Features inventory tracking, billing, stock deduction, profit calculation, daily reports, and JSON backup using localStorage. |
+| 💼 **[mian-hasnain-portfolio](https://github.com/MianHasnainAhmad/mian-hasnain-portfolio)** | My personal portfolio website built with React and Vite, featuring a responsive layout, light/dark theme toggle, and a contact form. |
+| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A React weather application featuring live city search, loading and error states, and weather-based icons and backgrounds using the Open-Meteo API. |
+| 🏫 **[Mian Tuition Academy](https://maintuitionclasses.netlify.app/)** | A live website for my tutoring academy, built to help students and parents explore tuition services. |
 
 ---
+
+<p align="center">
+  <i>Thanks for visiting my profile! 😊</i>
+</p>
 
 ### 📊 GitHub Stats
 
