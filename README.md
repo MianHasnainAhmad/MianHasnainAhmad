@@ -23,13 +23,33 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS
-- **Backend:** Python, Django (Learning)
-- **Database:** PostgreSQL
-- **Tools:** Git, GitHub, VS Code
+### 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind" />
+</p>
 
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving my development skills.</i>
+</p>
 ### 📌 Featured Projects
 
 | Project | Description |
