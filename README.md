@@ -56,10 +56,10 @@
 
 | Project | Description |
 |---|---|
-| 🏧 **[ATM-Simulator](https://github.com/MianHasnainAhmad/ATM-Simulator)** | An interactive ATM simulator built with React, Vite, and Tailwind CSS. Features card insertion, PIN security with lockout, balance check, withdraw, deposit, and transaction history. |
+| 🏧 **[ATM-Simulator](https://github.com/MianHasnainAhmad/ATM-Simulator)** | An interactive ATM simulator built with React, Vite, and Tailwind CSS. Features card insertion, PIN security with lockout, balance check, withdraw, deposit, and transaction history. [🔗 Live demo](https://atm-simulator1.netlify.app/) |
 | 🏪 **[Book-Store-Management](https://github.com/MianHasnainAhmad/Book-Store-Management)** | A book and stationery shop management app built with HTML, CSS, and JavaScript. Features inventory tracking, billing, stock deduction, profit calculation, daily reports, and JSON backup using localStorage. |
 | 💼 **[mian-hasnain-portfolio](https://github.com/MianHasnainAhmad/mian-hasnain-portfolio)** | My personal portfolio website built with React and Vite, featuring a responsive layout, light/dark theme toggle, and a contact form. |
-| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A React weather application featuring live city search, loading and error states, and weather-based icons and backgrounds using the Open-Meteo API. |
+| 🌦️ **[weather-app-react](https://github.com/MianHasnainAhmad/weather-app-react)** | A React weather application featuring live city search, loading and error states, and weather-based icons and backgrounds using the Open-Meteo API. [🔗 Live demo](https://weatherappmianhasnaintask10.netlify.app/) |
 | 🏫 **[Mian Tuition Academy](https://maintuitionclasses.netlify.app/)** | A live website for my tutoring academy, built to help students and parents explore tuition services. |
 
 ---
